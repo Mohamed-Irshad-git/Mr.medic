@@ -107,8 +107,8 @@ public class Register extends AppCompatActivity {
         });
 
         fullname= (EditText) findViewById(R.id.fullname);
-        emailreg= (EditText) findViewById(R.id.emailreg);
-        passreg= (EditText) findViewById(R.id.passreg);
+        emailreg= (EditText) findViewById(R.id.emaillog);
+        passreg= (EditText) findViewById(R.id.passlog);
         conf= (EditText) findViewById(R.id.conf);
 
         fAuth = FirebaseAuth.getInstance();
