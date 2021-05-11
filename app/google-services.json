@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302707113209",
+    "project_id": "mrmedic-34326",
+    "storage_bucket": "mrmedic-34326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302707113209:android:a0869aea75bf44d4e57628",
+        "android_client_info": {
+          "package_name": "com.example.medic5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302707113209-rums0lln1uvqvre2bd75ba2lg645j9k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzG8C3PHODbXOpZTHM8Rl53m9qgrT2b8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302707113209-rums0lln1uvqvre2bd75ba2lg645j9k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

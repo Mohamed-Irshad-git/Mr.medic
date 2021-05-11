@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mr. Medic</string>
+    <string name="noncovid">Non Covid</string>
+    <string name="covid">Covid</string>
+    <string name="cov1">Covid Patients</string>
+    <string name="reg">Regular Monitoring</string>
+    <string name="art">Articles/ Entertainment</string>
+    <string name="adv">Doctor Advice</string>
+    <string name="fam">Family time</string>
+    <string name="title_activity_noncovid">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nc">Non Covid</string>
+    <string name="stat">Status of the patient</string>
+    <string name="hs">Hospital Bed Counts</string>
+    <string name="vc">Vaccination Centers</string>
+    <string name="oxy">Oxygen Cylinder Availability</string>
+    <string name="log">Login</string>
+    <string name="sign">Sign Up</string>
+    <string name="user">xyz@gmail.com</string>
+    <string name="pass">Enter Password</string>
+    <string name="rem">Remember Me</string>
+    <string name="fp">Forgot Password?</string>
+    <string name="rg">Register</string>
+    <string name="full">Full Name</string>
+    <string name="ph">Phone Number</string>
+    <string name="al">Already Registered? Login Here</string>
+</resources>
