@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 public class login extends AppCompatActivity {
 
 
@@ -41,5 +43,14 @@ public class login extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         init();
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        if(FirebaseAuth.getInstance().getCurrentUser() !=null){
+            startActivity(new Intent(getApplicationContext(),MainActivity.class));
+            finish();
+        }
     }
 }

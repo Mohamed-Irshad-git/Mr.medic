@@ -26,4 +26,5 @@
     <string name="full">Full Name</string>
     <string name="ph">Phone Number</string>
     <string name="al">Already Registered? Login Here</string>
+    <string name="password">Password</string>
 </resources>
